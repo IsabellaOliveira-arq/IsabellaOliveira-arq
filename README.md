@@ -1,6 +1,6 @@
 ### Hi there!👋
 
-## I'm Isabella Oliveira 🌼👩
+## I'm Isabella Olìveíra 🌼👩
 
 I'm a Architect in the midst of a career transition with a passion for technology and its branches. I love creating, building, and tinkering with all things tech-related. My journey in the world of technology has been a fascinating one, and I'm excited to share my projects and experiences with the GitHub community.
 
